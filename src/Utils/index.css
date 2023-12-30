@@ -1,0 +1,46 @@
+.layout {
+  /* Estilos base para dispositivos móviles */
+  background-image: url("/images/pattern-background-mobile-light.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh; /* Usa min-height en lugar de height */
+  width: 100vw;
+  position: absolute; /* Cambia fixed por absolute si deseas que se desplace con el contenido */
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+/* Estilos base para el modo oscuro */
+.dark .layout {
+  background-image: url("/images/pattern-background-mobile-dark.svg");
+}
+
+/* Media query para tabletas en modo claro */
+@media (min-width: 481px) {
+  .layout {
+    background-image: url("/images/pattern-background-tablet-light.svg");
+  }
+}
+
+/* Media query para tabletas en modo oscuro */
+@media (min-width: 481px) {
+  .dark .layout {
+    background-image: url("/images/pattern-background-tablet-dark.svg");
+  }
+}
+
+/* Media query para escritorio en modo claro */
+@media (min-width: 769px) {
+  .layout {
+    background-image: url("/images/pattern-background-desktop-light.svg");
+  }
+}
+
+/* Media query para escritorio en modo oscuro */
+@media (min-width: 769px) {
+  .dark .layout {
+    background-image: url("/images/pattern-background-desktop-dark.svg");
+  }
+}

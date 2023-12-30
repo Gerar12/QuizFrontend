@@ -1,11 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+  darkMode: "class",
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       fontFamily: {
         sans: ["Rubik", "sans-serif"],
       },
+
       colors: {
         "vibrant-purple": "#A729F5", // Vibrante Púrpura
         "dark-charcoal": "#313E51", // Carbón Oscuro
