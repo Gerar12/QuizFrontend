@@ -5,6 +5,7 @@ import CSS from "../Pages/CSS";
 import Javascript from "../Pages/Javascript";
 import Accesibility from "../Pages/Accesibility";
 import NotFound from "../Pages/NotFound";
+import LoginRegister from "../Pages/LoginRegister";
 
 const AppRouter = () => {
   return (
@@ -13,8 +14,9 @@ const AppRouter = () => {
         <Route path="/" element={<Home />} />
         <Route path="/html" element={<HTML />} />
         <Route path="/css" element={<CSS />} />
-        <Route path="/javascript" element={<Javascript />} />
+        <Route path="/js" element={<Javascript />} />
         <Route path="/accesibility" element={<Accesibility />} />
+        <Route path="/login-register" element={<LoginRegister />} />
         <Route path="/*" element={<NotFound />} />
       </Routes>
     </>

@@ -1,0 +1,1010 @@
+{
+  "html": [
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Trainer Marking Language",
+        "Hyper Text Marketing Language",
+        "Hyper Text Markup Language",
+        "Hyper Text Markup Leveler"
+      ],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which HTML tag is used to define a paragraph?",
+      "options": ["<script>", "<p>", "<header>", "<paragraph>"],
+      "answer": "<p>"
+    },
+    {
+      "question": "What is the function of the <a> tag in HTML?",
+      "options": [
+        "To change the text color",
+        "To create a list",
+        "To create a hyperlink",
+        "None of the above"
+      ],
+      "answer": "To create a hyperlink"
+    },
+    {
+      "question": "Which tag is used to insert an image in HTML?",
+      "options": ["<img>", "<image>", "<picture>", "<graphics>"],
+      "answer": "<img>"
+    },
+    {
+      "question": "Which attribute is used to provide an email address in an HTML form?",
+      "options": ["user", "email", "mail", "sender"],
+      "answer": "email"
+    },
+    {
+      "question": "How do you create an unordered list in HTML?",
+      "options": ["<list>", "<ul>", "<ol>", "<dl>"],
+      "answer": "<ul>"
+    },
+    {
+      "question": "What is the purpose of the <title> tag in HTML?",
+      "options": [
+        "To create a large title in the body",
+        "To define the document's title",
+        "To add a header to a table",
+        "To display a title on the status bar"
+      ],
+      "answer": "To define the document's title"
+    },
+    {
+      "question": "Which HTML tag is used to define an important heading?",
+      "options": ["<head>", "<header>", "<h1>", "<strong>"],
+      "answer": "<h1>"
+    },
+    {
+      "question": "Which attribute is used in HTML to ensure that a form field is not empty?",
+      "options": ["placeholder", "required", "validate", "check"],
+      "answer": "required"
+    },
+    {
+      "question": "Which HTML tag is used to display data in a tabular format?",
+      "options": ["<table>", "<tab>", "<data>", "<grid>"],
+      "answer": "<table>"
+    },
+    {
+      "question": "¿Cuál es el propósito de la etiqueta <meta> en HTML?",
+      "options": [
+        "Para insertar imágenes",
+        "Para definir metadatos sobre el documento HTML",
+        "Para agregar enlaces a otros documentos",
+        "Para crear un pie de página"
+      ],
+      "answer": "Para definir metadatos sobre el documento HTML"
+    },
+    {
+      "question": "¿Cómo se especifica un enlace que abre en una nueva ventana del navegador en HTML?",
+      "options": [
+        "target=\"_new\"",
+        "target=\"_blank\"",
+        "target=\"_parent\"",
+        "target=\"_self\""
+      ],
+      "answer": "target=\"_blank\""
+    },
+    {
+      "question": "¿Cuál etiqueta HTML se utiliza para definir una lista ordenada?",
+      "options": ["<ul>", "<ol>", "<li>", "<dl>"],
+      "answer": "<ol>"
+    },
+    {
+      "question": "¿Qué atributo se usa para agregar un texto alternativo para una imagen en HTML?",
+      "options": ["alt", "title", "src", "text"],
+      "answer": "alt"
+    },
+    {
+      "question": "¿Cómo se crea un campo de entrada para una contraseña en un formulario HTML?",
+      "options": [
+        "<input type=\"text\">",
+        "<input type=\"password\">",
+        "<input type=\"user\">",
+        "<input type=\"email\">"
+      ],
+      "answer": "<input type=\"password\">"
+    },
+    {
+      "question": "¿Cuál etiqueta HTML se utiliza para insertar un salto de línea?",
+      "options": ["<break>", "<lb>", "<br>", "<line>"],
+      "answer": "<br>"
+    },
+    {
+      "question": "¿Qué etiqueta HTML se usa para definir una sección de navegación?",
+      "options": ["<navigation>", "<navigate>", "<nav>", "<menu>"],
+      "answer": "<nav>"
+    },
+    {
+      "question": "¿Cuál es la función de la etiqueta <footer> en HTML?",
+      "options": [
+        "Para crear un encabezado",
+        "Para insertar imágenes",
+        "Para definir el pie de página de un documento o sección",
+        "Para enfatizar texto"
+      ],
+      "answer": "Para definir el pie de página de un documento o sección"
+    },
+    {
+      "question": "¿Cuál etiqueta HTML se usa para definir un grupo de opciones en un menú desplegable?",
+      "options": ["<select>", "<option>", "<optgroup>", "<group>"],
+      "answer": "<optgroup>"
+    },
+    {
+      "question": "¿Qué atributo se utiliza para definir estilos CSS en línea en una etiqueta HTML?",
+      "options": ["class", "style", "id", "css"],
+      "answer": "style"
+    },
+    {
+      "question": "¿Cuál etiqueta HTML se usa para definir el encabezado de una tabla?",
+      "options": ["<thead>", "<header>", "<top>", "<h1>"],
+      "answer": "<thead>"
+    },
+    {
+      "question": "¿Qué se define dentro de la etiqueta <body> en HTML?",
+      "options": [
+        "El contenido principal del documento",
+        "Los metadatos del documento",
+        "El título de la página web",
+        "Los scripts y estilos"
+      ],
+      "answer": "El contenido principal del documento"
+    },
+    {
+      "question": "¿Qué etiqueta HTML se utiliza para crear un botón en un formulario?",
+      "options": ["<button>", "<input type=\"button\">", "<click>", "<submit>"],
+      "answer": "<button>"
+    },
+    {
+      "question": "¿Qué atributo se usa en HTML para referenciar una hoja de estilos externa?",
+      "options": ["src", "link", "href", "style"],
+      "answer": "href"
+    },
+    {
+      "question": "¿Cuál etiqueta HTML se utiliza para agrupar contenido en columnas?",
+      "options": ["<columns>", "<table>", "<grid>", "<colgroup>"],
+      "answer": "<colgroup>"
+    },
+    {
+      "question": "¿Qué etiqueta HTML se usa para representar un artículo independiente dentro de una página?",
+      "options": ["<article>", "<section>", "<item>", "<entry>"],
+      "answer": "<article>"
+    },
+    {
+      "question": "¿Cuál atributo de la etiqueta <img> especifica la ruta de la imagen?",
+      "options": ["source", "href", "src", "link"],
+      "answer": "src"
+    },
+    {
+      "question": "¿Qué etiqueta HTML se utiliza para definir un pie de página para un documento o sección?",
+      "options": ["<footer>", "<bottom>", "<end>", "<foot>"],
+      "answer": "<footer>"
+    },
+    {
+      "question": "¿Qué etiqueta HTML se usa para definir texto con importancia añadida?",
+      "options": ["<important>", "<strong>", "<bold>", "<em>"],
+      "answer": "<strong>"
+    },
+    {
+      "question": "¿Cuál atributo de la etiqueta <form> especifica el método de envío del formulario?",
+      "options": ["method", "action", "type", "send"],
+      "answer": "method"
+    }
+  ],
+  "CSS": [
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Creative Style Sheets",
+        "Colorful Style Sheets",
+        "Computer Style Sheets",
+        "Cascading Style Sheets"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "What is the correct syntax for CSS?",
+      "options": [
+        "{body;color:black;}",
+        "{body:color=black;}",
+        "body {color: black;}",
+        "body: {color = black;}"
+      ],
+      "answer": "body {color: black;}"
+    },
+    {
+      "question": "How do you insert a comment in CSS?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "' This is a comment",
+        "<!-- This is a comment -->"
+      ],
+      "answer": "/* This is a comment */"
+    },
+    {
+      "question": "Which CSS property is used to change the background color?",
+      "options": ["background-color", "color", "bgcolor", "back-color"],
+      "answer": "background-color"
+    },
+    {
+      "question": "How do you make the text of an element bold in CSS?",
+      "options": [
+        "font-weight: bold;",
+        "text-style: bold;",
+        "font: bold;",
+        "text-weight: bold;"
+      ],
+      "answer": "font-weight: bold;"
+    },
+    {
+      "question": "Which CSS property changes the size of the text?",
+      "options": ["text-size", "font-size", "text-style", "font-style"],
+      "answer": "font-size"
+    },
+    {
+      "question": "How do you select all <p> elements inside a div in CSS?",
+      "options": ["div + p", "div p", "div.p", "p > div"],
+      "answer": "div p"
+    },
+    {
+      "question": "Which CSS property is used to control the visibility of an element?",
+      "options": ["visibility", "display", "transparent", "opacity"],
+      "answer": "visibility"
+    },
+    {
+      "question": "What does 'color' do in CSS?",
+      "options": [
+        "Changes the background color",
+        "Changes the text color",
+        "Changes the border color",
+        "Changes the shadow color"
+      ],
+      "answer": "Changes the text color"
+    },
+    {
+      "question": "How do you add a background image in CSS?",
+      "options": [
+        "background-image: url('image.jpg');",
+        "background: url('image.jpg');",
+        "image: url('image.jpg');",
+        "Both 'background-image: url('image.jpg');' and 'background: url('image.jpg');'"
+      ],
+      "answer": "Both 'background-image: url('image.jpg');' and 'background: url('image.jpg');'"
+    },
+    {
+      "question": "Which CSS property is used to make elements float left or right?",
+      "options": ["align", "float", "push", "wrap"],
+      "answer": "float"
+    },
+    {
+      "question": "How do you apply a style only to paragraphs with the 'important' class?",
+      "options": ["p .important", "p important", ".important p", "p.important"],
+      "answer": "p.important"
+    },
+    {
+      "question": "Which CSS property is used to change the style of the cursor?",
+      "options": ["cursor-style", "cursor", "pointer", "hand"],
+      "answer": "cursor"
+    },
+    {
+      "question": "What does a CSS 'pseudo-class' mean?",
+      "options": [
+        "A false class",
+        "A class for animations",
+        "A special class",
+        "A class that defines a special state of an element"
+      ],
+      "answer": "A class that defines a special state of an element"
+    },
+    {
+      "question": "How do you create a CSS rule for links that have not been visited?",
+      "options": ["a:unvisited", "a", "a:link", "a:new"],
+      "answer": "a:link"
+    },
+    {
+      "question": "Which CSS property specifies the shadow of a text?",
+      "options": ["text-shadow", "font-shadow", "shadow", "text-outline"],
+      "answer": "text-shadow"
+    },
+    {
+      "question": "How do you select all elements of a specific type with a specific attribute in CSS?",
+      "options": [
+        "[attribute]",
+        "element[attribute]",
+        "element.attribute",
+        "element > attribute"
+      ],
+      "answer": "element[attribute]"
+    },
+    {
+      "question": "Which CSS property is used to set the space between words in a text?",
+      "options": ["word-spacing", "spacing", "letter-spacing", "text-spacing"],
+      "answer": "word-spacing"
+    },
+    {
+      "question": "How do you set a background image that does not repeat in CSS?",
+      "options": [
+        "background-repeat: no-repeat;",
+        "background: no-repeat;",
+        "background-image: no-repeat;",
+        "repeat: none;"
+      ],
+      "answer": "background-repeat: no-repeat;"
+    },
+    {
+      "question": "Which CSS property is used to make text italic?",
+      "options": [
+        "text-style: italic;",
+        "font-style: italic;",
+        "font-variant: italic;",
+        "text-italic: on;"
+      ],
+      "answer": "font-style: italic;"
+    },
+    {
+      "question": "Which CSS property is used to apply a 3D transformation to an element?",
+      "options": ["transform-3d", "perspective", "transform", "3d-transform"],
+      "answer": "transform"
+    },
+    {
+      "question": "How do you define an animation in CSS?",
+      "options": ["@keyframes", "@animation", "@frames", "@animate"],
+      "answer": "@keyframes"
+    },
+    {
+      "question": "Which CSS property allows you to visually change the position of an element without affecting the layout?",
+      "options": ["margin", "transform", "position", "translate"],
+      "answer": "transform"
+    },
+    {
+      "question": "Which CSS property is used to make an element flexible in a Flexbox layout?",
+      "options": ["flex", "flexible", "flex-grow", "flex-box"],
+      "answer": "flex"
+    },
+    {
+      "question": "What is CSS Grid Layout?",
+      "options": [
+        "A method for creating grid-based layouts",
+        "A CSS plugin to enhance layout",
+        "A property to align elements",
+        "An extension of Flexbox"
+      ],
+      "answer": "A method for creating grid-based layouts"
+    },
+    {
+      "question": "What is a 'mixin' in CSS?",
+      "options": [
+        "A type of selector",
+        "A CSS preprocessor function",
+        "A pseudo-class",
+        "An animation technique"
+      ],
+      "answer": "A CSS preprocessor function"
+    },
+    {
+      "question": "How do you apply a CSS style only in print?",
+      "options": [
+        "@media print { ... }",
+        "@print { ... }",
+        "@media screen { ... }",
+        "@media only print { ... }"
+      ],
+      "answer": "@media print { ... }"
+    },
+    {
+      "question": "Which CSS property is used to create smooth scrolling in an element?",
+      "options": [
+        "scroll-behavior",
+        "smooth-scroll",
+        "scroll-smooth",
+        "overflow-scroll"
+      ],
+      "answer": "scroll-behavior"
+    },
+    {
+      "question": "Which CSS function is used to create colors with transparency?",
+      "options": ["color()", "rgba()", "transcolor()", "alpha()"],
+      "answer": "rgba()"
+    },
+    {
+      "question": "How do you set a variable in CSS?",
+      "options": [
+        "var-myVariable: value;",
+        "$myVariable: value;",
+        "--myVariable: value;",
+        "%myVariable: value;"
+      ],
+      "answer": "--myVariable: value;"
+    }
+  ],
+  "JavaScript": [
+    {
+      "question": "What is JavaScript?",
+      "options": [
+        "A markup language.",
+        "A programming language.",
+        "A styling language.",
+        "A query language."
+      ],
+      "answer": "A programming language."
+    },
+    {
+      "question": "How do you declare a variable in JavaScript?",
+      "options": ["variable num;", "int num;", "var num;", "num = variable;"],
+      "answer": "var num;"
+    },
+    {
+      "question": "What method is used to write to the browser's console?",
+      "options": [
+        "console.write();",
+        "console.log();",
+        "browser.log();",
+        "document.write();"
+      ],
+      "answer": "console.log();"
+    },
+    {
+      "question": "How do you create an array in JavaScript?",
+      "options": [
+        "var myArray = (1,2,3);",
+        "var myArray = [1, 2, 3];",
+        "var myArray = {'1', '2', '3'};",
+        "var myArray = 1, 2, 3;"
+      ],
+      "answer": "var myArray = [1, 2, 3];"
+    },
+    {
+      "question": "Which operator is used for strict equality in JavaScript?",
+      "options": ["==", "===", "=", "!="],
+      "answer": "==="
+    },
+    {
+      "question": "How do you define a function in JavaScript?",
+      "options": [
+        "function myFunc() {}",
+        "def myFunc():",
+        "function: myFunc() {}",
+        "function = myFunc() {}"
+      ],
+      "answer": "function myFunc() {}"
+    },
+    {
+      "question": "How do you call a function in JavaScript?",
+      "options": [
+        "call myFunc();",
+        "myFunc();",
+        "run myFunc();",
+        "execute myFunc();"
+      ],
+      "answer": "myFunc();"
+    },
+    {
+      "question": "Which structure is used to iterate over arrays in JavaScript?",
+      "options": ["if", "for", "while", "loop"],
+      "answer": "for"
+    },
+    {
+      "question": "How do you add a single-line comment in JavaScript?",
+      "options": [
+        "// Comment",
+        "<!-- Comment -->",
+        "/* Comment */",
+        "# Comment"
+      ],
+      "answer": "// Comment"
+    },
+    {
+      "question": "What method is used to add an element to the end of an array?",
+      "options": [
+        "array.add();",
+        "array.put();",
+        "array.push();",
+        "array.end();"
+      ],
+      "answer": "array.push();"
+    },
+    {
+      "question": "What is a promise in JavaScript?",
+      "options": [
+        "A code test.",
+        "A function that executes immediately.",
+        "An object that represents the completion or failure of an asynchronous operation.",
+        "A technique for handling events."
+      ],
+      "answer": "An object that represents the completion or failure of an asynchronous operation."
+    },
+    {
+      "question": "How do you capture a click event on a button in JavaScript?",
+      "options": [
+        "document.getElementById('button').onEvent('click', function() {});",
+        "document.getElementById('button').click(function() {});",
+        "document.getElementById('button').addEventListener('click', function() {});",
+        "$('#button').click(function() {});"
+      ],
+      "answer": "document.getElementById('button').addEventListener('click', function() {});"
+    },
+    {
+      "question": "What method is used to convert JSON into a JavaScript object?",
+      "options": [
+        "JSON.parse();",
+        "JSON.stringify();",
+        "JSON.toObject();",
+        "JSON.convert();"
+      ],
+      "answer": "JSON.parse();"
+    },
+    {
+      "question": "What is event bubbling in JavaScript?",
+      "options": [
+        "A method to stop events.",
+        "The way the browser executes events by default.",
+        "A type of code error.",
+        "A JavaScript framework."
+      ],
+      "answer": "The way the browser executes events by default."
+    },
+    {
+      "question": "How can you stop the propagation of an event?",
+      "options": [
+        "event.stopPropagation();",
+        "event.preventDefault();",
+        "event.stop();",
+        "event.pausePropagation();"
+      ],
+      "answer": "event.stopPropagation();"
+    },
+    {
+      "question": "What is the difference between 'let' and 'var' in JavaScript?",
+      "options": [
+        "There is no difference.",
+        "let has global scope, while var has local scope.",
+        "let has block scope, while var has function scope.",
+        "let is older than var."
+      ],
+      "answer": "let has block scope, while var has function scope."
+    },
+    {
+      "question": "What method is used to remove the last element from an array?",
+      "options": [
+        "array.removeLast();",
+        "array.pop();",
+        "array.deleteLast();",
+        "array.end();"
+      ],
+      "answer": "array.pop();"
+    },
+    {
+      "question": "How do you declare a class in JavaScript?",
+      "options": [
+        "class MyClass {}",
+        "function MyClass() {}",
+        "new Class MyClass {}",
+        "create MyClass {}"
+      ],
+      "answer": "class MyClass {}"
+    },
+    {
+      "question": "What is a callback in JavaScript?",
+      "options": [
+        "A function that is passed as an argument to another function.",
+        "A type of loop.",
+        "A code error.",
+        "A browser event."
+      ],
+      "answer": "A function that is passed as an argument to another function."
+    },
+    {
+      "question": "What is hoisting in JavaScript?",
+      "options": [
+        "Moving elements up in the DOM.",
+        "The default behavior of moving declarations to the top of the script.",
+        "An animation technique.",
+        "A special function in JavaScript."
+      ],
+      "answer": "The default behavior of moving declarations to the top of the script."
+    },
+    {
+      "question": "What is functional programming in JavaScript?",
+      "options": [
+        "A paradigm centered around first-class functions.",
+        "Programming using only functions.",
+        "The use of high-level functions.",
+        "A type of asynchronous programming."
+      ],
+      "answer": "A paradigm centered around first-class functions."
+    },
+    {
+      "question": "What does 'this' represent in a class method in JavaScript?",
+      "options": [
+        "The global object.",
+        "The object that invoked the method.",
+        "The DOM.",
+        "The browser."
+      ],
+      "answer": "The object that invoked the method."
+    },
+    {
+      "question": "How is asynchrony handled in modern JavaScript?",
+      "options": [
+        "Callbacks.",
+        "Promises and Async/Await.",
+        "Synchronous loops.",
+        "Events."
+      ],
+      "answer": "Promises and Async/Await."
+    },
+    {
+      "question": "What are generators in JavaScript?",
+      "options": [
+        "Functions that generate arrays.",
+        "Functions that can be paused and resumed.",
+        "A debugging tool.",
+        "A type of promise."
+      ],
+      "answer": "Functions that can be paused and resumed."
+    },
+    {
+      "question": "What is the shadow DOM in JavaScript?",
+      "options": [
+        "A hidden DOM that cannot be accessed.",
+        "A DOM model for encapsulated web components.",
+        "An error in the DOM.",
+        "A rendering technique."
+      ],
+      "answer": "A DOM model for encapsulated web components."
+    },
+    {
+      "question": "How do you implement inheritance in JavaScript?",
+      "options": [
+        "Using the inherits keyword.",
+        "Using the extend keyword.",
+        "Through the prototype property.",
+        "JavaScript does not support inheritance."
+      ],
+      "answer": "Through the prototype property."
+    },
+    {
+      "question": "What is a Polyfill in JavaScript?",
+      "options": [
+        "A bug in the code.",
+        "A JavaScript framework.",
+        "Code that implements a feature not supported by the browser.",
+        "An animation library."
+      ],
+      "answer": "Code that implements a feature not supported by the browser."
+    },
+    {
+      "question": "What is an IIFE in JavaScript?",
+      "options": [
+        "A function invoked immediately after its definition.",
+        "A type of event.",
+        "A built-in function in JavaScript.",
+        "A common error in JavaScript."
+      ],
+      "answer": "A function invoked immediately after its definition."
+    },
+    {
+      "question": "How is Map used in JavaScript?",
+      "options": [
+        "To iterate over elements of an array.",
+        "As a type of array.",
+        "To map values to unique keys.",
+        "To convert JSON into objects."
+      ],
+      "answer": "To map values to unique keys."
+    },
+    {
+      "question": "What is event delegation in JavaScript?",
+      "options": [
+        "A method to handle events on child elements.",
+        "Assigning events to each individual element.",
+        "A library for handling events.",
+        "A type of event."
+      ],
+      "answer": "A method to handle events on child elements."
+    }
+  ],
+  "accessibility": [
+    {
+      "question": "What is web accessibility?",
+      "options": [
+        "Making websites as complex as possible",
+        "Ensuring websites are usable only on mobile devices",
+        "Ensuring websites are usable by everyone, regardless of disability",
+        "Designing websites for a specific group of people"
+      ],
+      "answer": "Ensuring websites are usable by everyone, regardless of disability"
+    },
+    {
+      "question": "Name two benefits of having an accessible website.",
+      "options": [
+        "Faster loading times and more ads",
+        "Increased user engagement and legal compliance",
+        "More colorful designs and animations",
+        "Higher costs and complexity"
+      ],
+      "answer": "Increased user engagement and legal compliance"
+    },
+    {
+      "question": "What does the acronym WCAG stand for?",
+      "options": [
+        "Web Content Accessibility Guidelines",
+        "Website Creation and Growth",
+        "Web Coding and Graphics",
+        "Worldwide Connectivity Access Gate"
+      ],
+      "answer": "Web Content Accessibility Guidelines"
+    },
+    {
+      "question": "What is the purpose of alternative texts in images?",
+      "options": [
+        "To make the website look better",
+        "For decorating purposes",
+        "To provide a textual alternative of the image for screen reader users",
+        "To increase the image size"
+      ],
+      "answer": "To provide a textual alternative of the image for screen reader users"
+    },
+    {
+      "question": "Give an example of how a website can be more accessible for people with visual impairments.",
+      "options": [
+        "Using very small font sizes",
+        "Having text-to-speech functionality",
+        "Using low contrast colors",
+        "Eliminating images and videos"
+      ],
+      "answer": "Having text-to-speech functionality"
+    },
+    {
+      "question": "What is a screen reader, and what is it used for?",
+      "options": [
+        "A tool for reading text aloud from a computer screen, used primarily by people with visual impairments",
+        "A device that protects computer screens",
+        "A program that reads only the headlines of articles",
+        "A reader for scanning barcodes"
+      ],
+      "answer": "A tool for reading text aloud from a computer screen, used primarily by people with visual impairments"
+    },
+    {
+      "question": "Name a basic tool to check a website's accessibility.",
+      "options": [
+        "A spell checker",
+        "An image editor",
+        "A web accessibility evaluation tool",
+        "A social media platform"
+      ],
+      "answer": "A web accessibility evaluation tool"
+    },
+    {
+      "question": "Why is color contrast important in web accessibility?",
+      "options": [
+        "It makes the website more visually appealing",
+        "It is not important for accessibility",
+        "It helps users with color vision deficiencies and low vision to read and perceive content",
+        "To comply with design trends"
+      ],
+      "answer": "It helps users with color vision deficiencies and low vision to read and perceive content"
+    },
+    {
+      "question": "What type of disability benefits from the use of subtitles in videos?",
+      "options": [
+        "Motor disabilities",
+        "Visual impairments",
+        "Hearing impairments",
+        "Cognitive disabilities"
+      ],
+      "answer": "Hearing impairments"
+    },
+    {
+      "question": "Give an example of how a website can be accessible to users with motor disabilities.",
+      "options": [
+        "By having complex navigation",
+        "By requiring the use of a mouse only",
+        "Ensuring keyboard navigation is possible",
+        "Limiting the use of interactive elements"
+      ],
+      "answer": "Ensuring keyboard navigation is possible"
+    },
+    {
+      "question": "How does text size and spacing affect web accessibility?",
+      "options": [
+        "It does not have a significant impact",
+        "Larger text and adequate spacing can improve readability for users with visual impairments",
+        "Smaller text is generally more accessible",
+        "Text size and spacing should only be considered for mobile devices"
+      ],
+      "answer": "Larger text and adequate spacing can improve readability for users with visual impairments"
+    },
+    {
+      "question": "Explain what ARIA is in the context of web accessibility.",
+      "options": [
+        "A programming language for web development",
+        "Accessible Rich Internet Applications, a set of attributes to make web content more accessible",
+        "A type of web browser",
+        "A tool for automated web testing"
+      ],
+      "answer": "Accessible Rich Internet Applications, a set of attributes to make web content more accessible"
+    },
+    {
+      "question": "What are the three WCAG compliance levels, and what do they mean?",
+      "options": [
+        "A, AA, AAA - Accessible, More Accessible, Most Accessible",
+        "A, B, C - Basic, Better, Complete",
+        "1, 2, 3 - Low, Medium, High Accessibility",
+        "Basic, Intermediate, Advanced - Levels of difficulty"
+      ],
+      "answer": "A, AA, AAA - Accessible, More Accessible, Most Accessible"
+    },
+    {
+      "question": "How can a web form be made more accessible?",
+      "options": [
+        "By using complex layouts and scripting",
+        "Providing clear labels, instructions, and easy navigation",
+        "Making it visually attractive with advanced graphics",
+        "Forms should not be used to ensure accessibility"
+      ],
+      "answer": "Providing clear labels, instructions, and easy navigation"
+    },
+    {
+      "question": "Mention a technique to make tables accessible.",
+      "options": [
+        "Using color coding only",
+        "Avoiding the use of tables",
+        "Providing proper header tags and descriptions",
+        "Using smaller font sizes"
+      ],
+      "answer": "Providing proper header tags and descriptions"
+    },
+    {
+      "question": "What is keyboard navigation, and why is it important?",
+      "options": [
+        "It is the ability to navigate a website using the mouse only",
+        "The ability to navigate a website using keyboard shortcuts, important for users with motor impairments",
+        "A feature only needed for gaming websites",
+        "Keyboard navigation is not important for accessibility"
+      ],
+      "answer": "The ability to navigate a website using keyboard shortcuts, important for users with motor impairments"
+    },
+    {
+      "question": "Explain how responsive design contributes to accessibility.",
+      "options": [
+        "Responsive design is only about visual appeal",
+        "It ensures websites are accessible only on mobile devices",
+        "It makes websites accessible and usable across a variety of devices and screen sizes",
+        "Responsive design makes websites slower and less accessible"
+      ],
+      "answer": "It makes websites accessible and usable across a variety of devices and screen sizes"
+    },
+    {
+      "question": "What are some common mistakes that affect web accessibility?",
+      "options": [
+        "Using too many images",
+        "Including contact information",
+        "Lack of alternative text for images, poor color contrast, missing form labels",
+        "Having a search functionality"
+      ],
+      "answer": "Lack of alternative text for images, poor color contrast, missing form labels"
+    },
+    {
+      "question": "Describe how the use of color alone can be an accessibility issue.",
+      "options": [
+        "It makes the website more attractive and accessible",
+        "Using color alone as an indicator can be problematic for color-blind users",
+        "All users perceive colors in the same way",
+        "Color is not relevant to accessibility"
+      ],
+      "answer": "Using color alone as an indicator can be problematic for color-blind users"
+    },
+    {
+      "question": "What is the 'mobile-first' approach, and how does it impact accessibility?",
+      "options": [
+        "Focusing on desktop design before mobile",
+        "Ignoring mobile devices in web design",
+        "Designing for mobile devices first, which can improve accessibility due to the need for simpler, more flexible layouts",
+        "Mobile-first approach is not related to accessibility"
+      ],
+      "answer": "Designing for mobile devices first, which can improve accessibility due to the need for simpler, more flexible layouts"
+    },
+    {
+      "question": "Explain the difference between accessibility and usability.",
+      "options": [
+        "They are the same",
+        "Accessibility is about legal requirements, usability is not",
+        "Accessibility focuses on people with disabilities, usability is broader",
+        "Usability is a part of accessibility"
+      ],
+      "answer": "Accessibility focuses on people with disabilities, usability is broader"
+    },
+    {
+      "question": "Describe how to implement accessible navigation control with ARIA.",
+      "options": [
+        "Using ARIA roles and properties indiscriminately",
+        "Adding ARIA labels to all elements",
+        "Using ARIA landmarks and roles to define navigation areas",
+        "ARIA is not used for navigation control"
+      ],
+      "answer": "Using ARIA landmarks and roles to define navigation areas"
+    },
+    {
+      "question": "Discuss the implications of the Communications and Video Accessibility Act (CVAA) for websites.",
+      "options": [
+        "It mandates accessibility for all offline communications",
+        "It applies only to government websites",
+        "It requires accessible communication methods on websites",
+        "It has no implications for websites"
+      ],
+      "answer": "It requires accessible communication methods on websites"
+    },
+    {
+      "question": "Discuss accessibility considerations for complex interactive components.",
+      "options": [
+        "Complex components cannot be made accessible",
+        "Accessibility is not necessary for interactive components",
+        "Focus on keyboard navigation and screen reader compatibility",
+        "Use only mouse-based interactions"
+      ],
+      "answer": "Focus on keyboard navigation and screen reader compatibility"
+    },
+    {
+      "question": "Explain the concept of 'inclusive accessibility' in web design.",
+      "options": [
+        "Designing websites for a specific group of disabilities",
+        "Making websites accessible only to a certain region",
+        "Designing for all users, considering a wide range of abilities and disabilities",
+        "Focusing on color contrast only"
+      ],
+      "answer": "Designing for all users, considering a wide range of abilities and disabilities"
+    },
+    {
+      "question": "How is an accessibility audit conducted, and what tools are used?",
+      "options": [
+        "Auditing only the homepage with basic tools",
+        "Using automated tools only to evaluate the entire website",
+        "Combining automated testing with manual evaluation and user testing",
+        "Accessibility audits are not necessary"
+      ],
+      "answer": "Combining automated testing with manual evaluation and user testing"
+    },
+    {
+      "question": "Describe best practices for accessibility in single-page web applications (SPA).",
+      "options": [
+        "Using dynamic content without ARIA roles",
+        "Ignoring keyboard navigation",
+        "Ensuring dynamic content updates are announced by screen readers",
+        "Single-page applications can't be made accessible"
+      ],
+      "answer": "Ensuring dynamic content updates are announced by screen readers"
+    },
+    {
+      "question": "Explain the challenges of accessibility in user-generated content.",
+      "options": [
+        "User-generated content does not need to be accessible",
+        "Only professional content needs to be accessible",
+        "Moderating for accessibility and providing guidelines for users",
+        "Completely restricting user-generated content"
+      ],
+      "answer": "Moderating for accessibility and providing guidelines for users"
+    },
+    {
+      "question": "What are the legal implications of not complying with web accessibility regulations?",
+      "options": [
+        "No implications, as regulations are voluntary",
+        "Potential legal action and fines for non-compliance",
+        "Only a warning is given for non-compliance",
+        "Regulations apply only outside the US"
+      ],
+      "answer": "Potential legal action and fines for non-compliance"
+    },
+    {
+      "question": "Analyze the impact of emerging technologies, such as artificial intelligence, on web accessibility.",
+      "options": [
+        "They have no impact on accessibility",
+        "They complicate accessibility further",
+        "They can enhance accessibility features and personalization",
+        "Emerging technologies are only for advanced users"
+      ],
+      "answer": "They can enhance accessibility features and personalization"
+    }
+  ]
+}

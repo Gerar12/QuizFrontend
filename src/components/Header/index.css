@@ -1,0 +1,27 @@
+.arrow-back-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3em; /* o el tamaño que prefieras */
+  height: 3em;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.1); /* un fondo semitransparente */
+  color: #ffffff; /* color del icono */
+  text-decoration: none; /* quita el subrayado del enlace */
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.arrow-back-link:hover,
+.arrow-back-link:focus {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.2
+  ); /* fondo más oscuro al pasar el cursor */
+  transform: scale(1.1); /* un ligero aumento de tamaño al pasar el cursor */
+}
+
+.arrow-back-icon {
+  font-size: 1.5em; /* tamaño del icono */
+}
