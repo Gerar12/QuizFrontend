@@ -1,7 +1,18 @@
+import { useState } from "react";
+import Quiz from "../../components/Quiz";
+
 const Accesibility = () => {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const [warning, setWarning] = useState(true);
   return (
     <>
-      <h1 className="text-xl">Page Accesibility</h1>
+      {warning ? (
+        <>
+          <h1>Aviso importante</h1>
+        </>
+      ) : (
+        <Quiz />
+      )}
     </>
   );
 };

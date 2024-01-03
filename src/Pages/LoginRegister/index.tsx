@@ -39,7 +39,7 @@ const LoginRegister = () => {
                 <FaGithub className="text-4xl dark:text-white" />
               </span>
             </p>
-            <p className="flex  gap-2 items-center border dark:border-white border-gray-500 p-2 dark:text-white cursor-pointe transition-all duration-300 hover:shadow-2xl  hover:scale-105">
+            <p className=" flex  gap-2 items-center border dark:border-white border-gray-500 p-2 dark:text-white cursor-pointer transition-all duration-300 hover:shadow-2xl  hover:scale-105">
               Sign in with <span className="font-bold">Google</span>{" "}
               <span>
                 {" "}

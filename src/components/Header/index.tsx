@@ -43,7 +43,7 @@ const Header = () => {
 
   return (
     <>
-      <nav className="navApp mt-10 flex justify-between  mr-5 lg:mr-0 lg:justify-evenly z-10">
+      <nav className=" navApp  flex justify-between  mt-10  mx-auto lg:justify-evenly z-10 container   ">
         <div className="ml-5 flex gap-10  ">
           {location.pathname === "/login-register" ? (
             <div className="relative">
@@ -64,7 +64,7 @@ const Header = () => {
             </Link>
           )}
         </div>
-        <div className="flex gap-2">
+        <div className="flex gap-2 mr-3">
           <img
             src={
               theme === "light"

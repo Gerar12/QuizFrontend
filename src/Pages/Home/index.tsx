@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <>
-      <main className="md:flex justify-evenly items-center lg:mt-20   z-10">
+      <main className="md:flex justify-evenly items-center mt-5   z-10">
         <div className="mt-5 0 p-2  text-center">
           <h1 className=" text-3xl  font-medium dark:text-white  w-100 md:w-96 ">
             Welcome to the{" "}
